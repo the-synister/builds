@@ -28,7 +28,7 @@ We support Mac OS X and Windows. Unfortunately, we don't have any Linux binaries
 
 ## Install
 
-For Mac OS X you can download it from [here](https://github.com/the-synister/builds/archive/Mac.zip). For Windows you can download it [here](https://github.com/the-synister/builds/archive/Windows.zip).
+For Mac OS X you can download it from [here](https://github.com/the-synister/synister/archive/Mac.zip). For Windows you can download it [here](https://github.com/the-synister/synister/archive/Windows.zip).
 
 Unfortunately, we don't have any Linux support! 
 
