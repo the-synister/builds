@@ -8,7 +8,9 @@ For the GUI, it is important to add everything via the Introjucer which you can 
 
 If you want to add files, you will need as well to add them via the Introjucer - don't forget to add them to the repository as well! 
 
-For the audio, it is important to know that we have a global parameters file. So please look carefully when you want to add a parameter. 
+For the audio, it is important to know that we have a global parameters file. So please look carefully when you want to add a parameter.
+
+For the builds it is required the [VST SDK](http://www.steinberg.net/en/company/developers.html) from steinberg. Please download it and add it in the main directory with the name `vst`
 
 ## Pull requests
 
