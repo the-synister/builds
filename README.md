@@ -1,3 +1,5 @@
+[![Github All Releases](https://img.shields.io/github/downloads/the-synister/the-source/total.svg)]() [![GitHub release](https://img.shields.io/github/release/the-synister/the-source.svg)]()
+
 # Synister - the Builds
 
 The first public release 1.0.2 is online!
