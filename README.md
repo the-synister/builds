@@ -1,6 +1,6 @@
 # Synister - the Builds
 
-The first public release 1.02 is online!
+The first public release 1.0.2 is online!
 
 ## What is Synister?
 
